@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**faastgaming/faastgaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Présentation : 
 
-Here are some ideas to get you started:
+>🧠| **Moi :** Apprend a codé des Programmes Principalement sur du Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>🎮| **Mes Activité :** J'aime Jouer au Jeux-Vidéos Et Particulièrement sur FiveM.
+
+>✨| **Mon Discord :** Toni.#5982 
+
+>💬 **Pour tout problème vous pouvez me contactez avec Discord :** Toni.#5982
+
+>🎰| **Mon Propre Serveur Discord**: https://discord.gg/ygDJ4KzFhK
+
